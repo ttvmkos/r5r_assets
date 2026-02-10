@@ -1,0 +1,13 @@
+path,name,category
+"media/playlists/grapples_n_guns/grapples_cash.bik","cash","grapples_n_guns"
+"media/playlists/grapples_n_guns/grapples_coin.bik","coin","grapples_n_guns"
+"media/playlists/grapples_n_guns/grapples_meow.bik","meow","grapples_n_guns"
+"media/playlists/grapples_n_guns/grapples_uwu.bik","uwu","grapples_n_guns"
+"media/playlists/grapples_n_guns/grapples_hs_terminated.bik","terminated","grapples_n_guns"
+"media/playlists/grapples_n_guns/grapples_intro1.bik","intro1","grapples_n_guns_announce"
+"media/playlists/grapples_n_guns/grapples_intro2.bik","intro2","grapples_n_guns_announce"
+"media/playlists/grapples_n_guns/grapples_intro3.bik","intro3","grapples_n_guns_announce"
+"media/playlists/grapples_n_guns/grapples_outro1.bik","outro1","grapples_n_guns_announce"
+"media/playlists/grapples_n_guns/grapples_outro2.bik","outro2","grapples_n_guns_announce"
+"media/playlists/grapples_n_guns/grapples_outro3.bik","outro3","grapples_n_guns_announce"
+string,string,string

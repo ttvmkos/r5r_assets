@@ -1,0 +1,19 @@
+{ 
+    "version": 8,
+    "keepDevOnly": false,
+  
+    "name": "audio_table",
+  
+    "assetsDir": "./assets/",
+    "outputDir": "./build/",
+  
+    "compressLevel": 0,
+    "compressWorkers": 16,
+    "files":
+    [
+		{           
+            "_type": "dtbl",
+            "_path": "datatable/grapples_n_guns_audio.rpak"
+        }
+    ]
+}

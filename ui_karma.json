@@ -1,0 +1,37 @@
+{
+  "version": 8,
+  "$mapversion": 1,
+
+  "assetsDir": ".\\assets\\",
+  "outputDir": ".\\build\\",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "ui_karma",
+
+  "files": 
+  [
+	{
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/world/karma_banners",
+      "atlas": "texture/ui_atlas/rui/world/karma_banners.rpak",
+      "images": [
+		{
+			"path": "rui/world/karma_banner01",
+			"posX": 72,
+			"posY": 115,
+			"width": 855,
+			"height": 466
+        },
+		{
+			"path": "rui/world/karma_banner02",
+			"posX": 18,
+			"posY": 746,
+			"width": 1920,
+			"height": 1080
+		}
+      ]
+    }
+  ]
+}
