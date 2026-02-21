@@ -70,6 +70,14 @@
 		{
 			"_type": "dtbl",
 			"_path": "datatable/fs_spawns_realistic_ai.rpak"
-		}
+		},
+		{
+			"_type": "dtbl",
+			"_path": "datatable/fs_spawns_realistic_lootspawns.rpak"
+		},
+		{
+			"_type": "dtbl",
+			"_path": "datatable/fs_spawns_realistic_airdrops.rpak"
+		}		
     ]
 }
