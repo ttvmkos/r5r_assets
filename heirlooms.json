@@ -1,9 +1,8 @@
 {
   "version": 8,
-  "keepDevOnly": true,
+  "keepDevOnly": false,
   "name": "heirloom",
   "streamFileMandatory": "paks/Win64/heirloom.starpak",
-  "streamFileOptional": "paks/Win64/heirloom.opt.starpak",
   "assetsDir": "./heirlooms/",
   "outputDir": "./build/",
   "compressLevel": 6,
@@ -17,7 +16,11 @@
       "_type": "matl",
       "_path": "material/texture/models/weapons/glitchpop/glitchpop_light.rpak"
     },
-        {
+    {
+      "_type": "matl",
+      "_path": "material/texture/models/weapons/vctblue/vctblue_body.rpak"
+    },
+    {
       "_type": "arig",
       "_path": "animrig/weapons/kunai/ptpov_kunai_wraith.rrig",
       "$sequences": [
@@ -107,6 +110,13 @@
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/glitchpop/glitchpop_ptpov.rmdl",
+      "$animrigs": [
+        "animrig/weapons/kunai/ptpov_kunai_wraith.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/vctblue/vctblue_ptpov.rmdl",
       "$animrigs": [
         "animrig/weapons/kunai/ptpov_kunai_wraith.rrig"
       ]
