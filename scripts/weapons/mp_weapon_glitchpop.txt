@@ -1,0 +1,20 @@
+#base "mp_weapon_melee_survival.txt"
+
+WeaponData
+{
+	// General
+	"printname"   									"melee"
+	"shortprintname"								"melee"
+	"description" 									"melee"
+	"longdesc"										"melee"
+
+    // UI/HUD
+	"menu_icon"										"rui/menu/dpad_comms/emoji/fist"
+	"hud_icon"										"rui/menu/dpad_comms/emoji/fist"
+
+	// Models
+	"viewmodel"   									"mdl/Weapons/glitchpop/glitchpop_ptpov.rmdl"
+	//"playermodel" 									"mdl/Weapons/octane_knife/w_macks_knife.rmdl"
+	
+	
+}
