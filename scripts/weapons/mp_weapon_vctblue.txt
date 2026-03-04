@@ -3,10 +3,10 @@
 WeaponData
 {
 	// General
-	"printname"   									"MELEE_SKIN_MACKS_KNIFE_NAME"
-	"shortprintname"								"MELEE_SKIN_MACKS_KNIFE_NAME"
-	"description" 									"MELEE_SKIN_MACKS_KNIFE_NAME"
-	"longdesc"										"MELEE_SKIN_MACKS_KNIFE_NAME"
+	"printname"   									"melee"
+	"shortprintname"								"melee"
+	"description" 									"melee"
+	"longdesc"										"melee"
 
     // UI/HUD
 	"menu_icon"										"rui/menu/dpad_comms/emoji/fist"
