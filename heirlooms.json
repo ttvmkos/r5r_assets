@@ -10,14 +10,6 @@
   "files": [
     {
       "_type": "matl",
-      "_path": "material/texture/models/weapons/glitchpop/glitchpop_body.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/texture/models/weapons/glitchpop/glitchpop_light.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/texture/models/weapons/vctblue/vctblue_body.rpak"
     },
     {
@@ -105,13 +97,6 @@
         "animseq/humans/class/light/pilot_light_wraith/wraith_gladcard_common_kunaithrow_propkunai_idle2.rseq",
         "animseq/humans/class/light/pilot_light_wraith/wraith_gladcard_common_kunaithrow_propkunai.rseq",
         "animseq/humans/class/light/pilot_light_wraith/wraith_gladcard_common_kunaithrow_propkunai2.rseq"
-      ]
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/Weapons/glitchpop/glitchpop_ptpov.rmdl",
-      "$animrigs": [
-        "animrig/weapons/kunai/ptpov_kunai_wraith.rrig"
       ]
     },
     {
