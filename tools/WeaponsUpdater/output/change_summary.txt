@@ -1,0 +1,567 @@
+
+========================================
+Processing: mp_ability_revenant_shadow_pounce_free.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_esaw.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_trophy_defense_system.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_semipistol.txt
+========================================
+Successfully updated mp_weapon_semipistol.txt
+Changes made:
+----------------------------------------
+  damage_near_value: 24 → 23
+  damage_far_value: 24 → 23
+  damage_very_far_value: 24 → 23
+  damage_near_value_titanarmor: 24 → 23
+  damage_far_value_titanarmor: 24 → 23
+  damage_very_far_value_titanarmor: 24 → 23
+
+========================================
+Processing: mp_ability_consumable.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_shotgun_pistol.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_rspn101.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_mobile_respawn_beacon.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_dirty_bomb.txt
+========================================
+No changes required
+
+========================================
+Processing: weapon_cubemap.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_dragon_lmg.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_lifeline_baton.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_phase_walk.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_creeping_bombardment.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_cover_wall.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_frag_grenade.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_boxing_ring.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_gas.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_tesla_trap.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_mounted_turret_placeable.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_dmr.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_energy_ar.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_pathfinder_gloves.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_deployable_medic.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_volt_smg.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_g2.txt
+========================================
+Successfully updated mp_weapon_g2.txt
+Changes made:
+----------------------------------------
+  fx_muzzle_flash_attach_scoped: muzzle_flash → muzzle_flash_scoped
+
+========================================
+Processing: melee_titan_sword.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_defensive_bombardment_weapon.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_flashbang.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_nemesis.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_jump_pad.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_shotgun.txt
+========================================
+Successfully updated mp_weapon_shotgun.txt
+Changes made:
+----------------------------------------
+  blast_pattern_default_scale: 1.500000 → 1.400000
+  fire_rate: 2.700000 → 2.800000
+
+========================================
+Processing: mp_ability_revenant_death_totem.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_wraith_kunai_primary.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_hemlok.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_melee_survival.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_lmg.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_thermite_grenade.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_shadowsquad_hands.txt
+========================================
+No changes required
+
+========================================
+Processing: blast_patterns.txt
+========================================
+No changes required
+
+========================================
+Processing: ammo_suck_behaviors.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_bow.txt
+========================================
+Successfully updated mp_weapon_bow.txt
+Changes made:
+----------------------------------------
+  holster_angles_offset: 90 90 90 → -90 45 -30
+  charge_time: 0.350000 → 0.450000
+
+========================================
+Processing: mp_ability_emote_projector.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_hunt_mode.txt
+========================================
+Successfully updated mp_ability_hunt_mode.txt
+Changes made:
+----------------------------------------
+  toss_time: 1.600000 → 1.200000
+  toss_overhead_time: 1.600000 → 1.200000
+  ammo_clip_size: 240 → 150
+  ammo_min_to_fire: 240 → 150
+  ammo_per_shot: 240 → 150
+  fire_duration: 30.000000 → 25.000000
+
+========================================
+Processing: mp_weapon_energy_shotgun_crate.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_mirage_ultimate.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_throwingknife.txt
+========================================
+No changes required
+
+========================================
+Processing: springs.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_zipline.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_item_spawner.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_bubble_bunker.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_panic_button.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_black_market.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_defender_sustained.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_energy_shotgun.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_barrier.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_concussive_breach.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_epg.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_bloodhound_axe.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_crypto_drone_emp.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_pdw.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_sentinel.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_wingman.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_alternator_smg.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_autopistol.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_gibraltar_shield.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_pilot_emptyhanded.txt
+========================================
+No changes required
+
+========================================
+Processing: npc_weapon_lstar.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_grapple.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_incap_shield.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_creeping_bombardment_weapon.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_energy_ar_crate.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_phase_tunnel.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_r97.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_doubletake.txt
+========================================
+Successfully updated mp_weapon_doubletake.txt
+Changes made:
+----------------------------------------
+  fire_rate: 1.450000 → 1.300000
+
+========================================
+Processing: mp_weapon_grenade_defensive_bombardment.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_bangalore.txt
+========================================
+No changes required
+
+========================================
+Processing: melee_wraith_kunai.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_shadow_squad_hands_primary.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_3030.txt
+========================================
+Successfully updated mp_weapon_3030.txt
+Changes made:
+----------------------------------------
+  charge_time: 0.350000 → 0.400000
+  charge_additional_damage_multiplier: 0.500000 → 0.400000
+  damage_near_value: 43 → 41
+  damage_far_value: 43 → 41
+  damage_very_far_value: 43 → 41
+  damage_near_value_titanarmor: 43 → 41
+  damage_far_value_titanarmor: 43 → 41
+  damage_very_far_value_titanarmor: 43 → 41
+  viewkick_pattern: 3030 → 3030_repeater
+
+========================================
+Processing: mp_weapon_defender.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_titan_sword.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_melee_boxing_ring.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_silence.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_wingman_crate.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_bloodhound_axe_primary.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_sniper.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_vinson.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_care_package.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_doubletake_crate.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_lstar.txt
+========================================
+No changes required
+
+========================================
+Processing: npc_weapon_hemlok.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_crypto_drone.txt
+========================================
+No changes required
+
+========================================
+Processing: viewkick_patterns.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_holopilot.txt
+========================================
+No changes required
+
+========================================
+Processing: npc_weapon_energy_shotgun.txt
+========================================
+Successfully updated npc_weapon_energy_shotgun.txt
+Changes made:
+----------------------------------------
+  blast_pattern: energy_shotgun_2 → energy_shotgun
+
+========================================
+Processing: mp_weapon_lifeline_baton_primary.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_mastiff.txt
+========================================
+Successfully updated mp_weapon_mastiff.txt
+Changes made:
+----------------------------------------
+  blast_pattern: mastiff_3 → mastiff_4
+  projectiles_per_shot: 6 → 5
+  damage_near_value: 16 → 19
+  damage_far_value: 16 → 19
+  damage_near_value_titanarmor: 16 → 19
+  damage_far_value_titanarmor: 16 → 19
+
+========================================
+Processing: mp_ability_area_sonar_scan.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_grenade_emp.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_mounted_turret_weapon.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_weapon_pathfinder_gloves_primary.txt
+========================================
+No changes required
+
+========================================
+Processing: mp_ability_translocation.txt
+========================================
+No changes required

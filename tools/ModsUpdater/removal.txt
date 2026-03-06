@@ -1,0 +1,2 @@
+// List of mods to remove, one per line
+sample_mod

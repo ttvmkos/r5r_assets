@@ -1,0 +1,122 @@
+{
+    "english": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Map skip was initiated"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "To skip the map, use any of the following chat commands: \n%s"
+        }
+    ],
+    "french": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Le vote pour passer la carte a ete lance"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Pour passer la carte, utilisez l'une des commandes de chat suivantes : \n%s"
+        }
+    ],
+    "german": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Map-Uberspringen wurde gestartet"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Um die Map zu uberspringen, verwende einen der folgenden Chatbefehle: \n%s"
+        }
+    ],
+    "italian": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Il salto della mappa e stato avviato"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Per saltare la mappa, usa uno dei seguenti comandi chat: \n%s"
+        }
+    ],
+    "japanese": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "マップスキップが開始されました"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "マップをスキップするには、以下のチャットコマンドのいずれかを使用してください: \n%s"
+        }
+    ],
+    "korean": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "맵 스킵이 시작되었습니다"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "맵을 스킵하려면 다음 채팅 명령어 중 하나를 사용하세요: \n%s"
+        }
+    ],
+    "polish": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Rozpoczeto glosowanie nad pominieciem mapy"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Aby pominac mape, uzyj jednej z nastepujacych komend czatu: \n%s"
+        }
+    ],
+    "portuguese": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "A votacao para pular o mapa foi iniciada"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Para pular o mapa, use um dos seguintes comandos de chat: \n%s"
+        }
+    ],
+    "russian": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Запущено голосование за пропуск карты"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Чтобы пропустить карту, используйте одну из следующих команд чата: \n%s"
+        }
+    ],
+    "schinese": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "已发起跳过地图投票"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "要跳过地图，请使用以下任一聊天指令：\n%s"
+        }
+    ],
+    "tchinese": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "已發起跳過地圖投票"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "要跳過地圖，請使用以下任一聊天指令：\n%s"
+        }
+    ],
+    "spanish": [
+        {
+            "token": "MAP_SKIP_INITIATED",
+            "text": "Se inicio la votacion para omitir el mapa"
+        },
+        {
+            "token": "MAP_SKIP_VOTE_INSTRUCTIONS",
+            "text": "Para omitir el mapa, usa cualquiera de los siguientes comandos de chat: \n%s"
+        }
+    ]
+}

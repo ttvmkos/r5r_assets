@@ -1,0 +1,122 @@
+{
+    "english": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Map skip is complete"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Changing map to next map"
+        }
+    ],
+    "french": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Le changement de carte est terminé"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Changement vers la carte suivante"
+        }
+    ],
+    "german": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Der Kartenwechsel ist abgeschlossen"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Wechsel zur nächsten Karte"
+        }
+    ],
+    "italian": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Il cambio mappa è completato"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Cambio alla mappa successiva"
+        }
+    ],
+    "japanese": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "マップスキップが完了しました"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "次のマップに変更します"
+        }
+    ],
+    "korean": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "맵 스킵이 완료되었습니다"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "다음 맵으로 변경 중입니다"
+        }
+    ],
+    "polish": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Pomijanie mapy zostało zakończone"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Zmiana na następną mapę"
+        }
+    ],
+    "portuguese": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "A mudança de mapa foi concluída"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Mudando para o próximo mapa"
+        }
+    ],
+    "russian": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "Пропуск карты завершён"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Смена карты на следующую"
+        }
+    ],
+    "schinese": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "地图跳过已完成"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "正在切换到下一张地图"
+        }
+    ],
+    "tchinese": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "地圖跳過已完成"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "正在切換到下一張地圖"
+        }
+    ],
+    "spanish": [
+        {
+            "token": "MAP_SKIP_COMPLETE",
+            "text": "El salto de mapa se ha completado"
+        },
+        {
+            "token": "MAP_SKIP_CHANGE",
+            "text": "Cambiando al siguiente mapa"
+        }
+    ]
+}

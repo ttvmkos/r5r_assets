@@ -1,0 +1,4 @@
+// List of files to process, one per line
+// Example:
+// weapons/r301.txt
+// weapons/flatline.txt

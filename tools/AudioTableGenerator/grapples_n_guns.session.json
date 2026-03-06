@@ -1,0 +1,177 @@
+{
+  "working_dir": "C:\\Program Files (x86)\\RADVideo\\grapples_n_guns\\Grapples\\new_audio\\output",
+  "rui_location": "media/playlists/grapples_n_guns/",
+  "csv_name": "grapples_n_guns.csv",
+  "rows": [
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_attach_come_here.bik",
+      "name": "attach_come_here",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_attach_get_over.bik",
+      "name": "attach_get_over",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_attach_rod_reel.bik",
+      "name": "attach_rod_reel",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_attach_splat.bik",
+      "name": "attach_splat",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_countdown_1min.bik",
+      "name": "countdown_1min",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_countdown_20sec.bik",
+      "name": "countdown_20sec",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_cash.bik",
+      "name": "hs_cash",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_coin.bik",
+      "name": "hs_coin",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_headshot.bik",
+      "name": "hs_headshot",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_meow.bik",
+      "name": "hs_meow",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_ring_drop.bik",
+      "name": "hs_ring_drop",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_screech.bik",
+      "name": "hs_screech",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_terminated.bik",
+      "name": "hs_terminated",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_toasty.bik",
+      "name": "hs_toasty",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_hs_uwu.bik",
+      "name": "hs_uwu",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_intro_get_some.bik",
+      "name": "intro_get_some",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_intro_lets_dance.bik",
+      "name": "intro_lets_dance",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_intro_lets_rock.bik",
+      "name": "intro_lets_rock",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_loss_cryin.bik",
+      "name": "loss_cryin",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_loss_game_over.bik",
+      "name": "loss_game_over",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_loss_pissed_off.bik",
+      "name": "loss_pissed_off",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_loss_sh_happens.bik",
+      "name": "loss_sh_happens",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_loss_this_sucks.bik",
+      "name": "loss_this_sucks",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_map_fall_pancake.bik",
+      "name": "map_fall_pancake",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_melee1.bik",
+      "name": "melee1",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_melee2.bik",
+      "name": "melee2",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_melee3.bik",
+      "name": "melee3",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_melee4.bik",
+      "name": "melee4",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_melee5.bik",
+      "name": "melee5",
+      "category": "grapples_n_guns"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_win_back2work.bik",
+      "name": "win_back2work",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_win_cake.bik",
+      "name": "win_cake",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_win_gotta_hurt.bik",
+      "name": "win_gotta_hurt",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_win_hail.bik",
+      "name": "win_hail",
+      "category": "grapples_n_guns_announce"
+    },
+    {
+      "path": "media/playlists/grapples_n_guns/grapples_win_im_good.bik",
+      "name": "win_im_good",
+      "category": "grapples_n_guns_announce"
+    }
+  ]
+}

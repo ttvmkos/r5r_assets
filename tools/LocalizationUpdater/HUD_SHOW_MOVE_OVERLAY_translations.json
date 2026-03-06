@@ -1,0 +1,122 @@
+{
+    "english": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Movement Overlay"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Shows the movement overlay at bottom of screen while in a server"
+        }
+    ],
+    "french": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Superposition de mouvement"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Affiche la superposition de mouvement en bas de l'ecran lorsque vous etes sur un serveur"
+        }
+    ],
+    "german": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Bewegungs-Overlay"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Zeigt das Bewegungs-Overlay unten auf dem Bildschirm an, wahrend man sich auf einem Server befindet"
+        }
+    ],
+    "italian": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Overlay di movimento"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Mostra l'overlay di movimento nella parte inferiore dello schermo mentre sei in un server"
+        }
+    ],
+    "japanese": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "移動オーバーレイ"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "サーバー内にいる間、画面下部に移動オーバーレイを表示します"
+        }
+    ],
+    "korean": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "이동 오버레이"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "서버에 있는 동안 화면 하단에 이동 오버레이를 표시합니다"
+        }
+    ],
+    "polish": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Nakladka ruchu"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Wyswietla nakladke ruchu na dole ekranu podczas przebywania na serwerze"
+        }
+    ],
+    "portuguese": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Sobreposicao de movimento"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Mostra a sobreposicao de movimento na parte inferior da tela enquanto estiver em um servidor"
+        }
+    ],
+    "russian": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Оверлей движения"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Показывает оверлей движения внизу экрана во время нахождения на сервере"
+        }
+    ],
+    "schinese": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "移动覆盖层"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "在服务器中时，在屏幕底部显示移动覆盖层"
+        }
+    ],
+    "tchinese": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "移動覆蓋層"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "在伺服器中時，在畫面底部顯示移動覆蓋層"
+        }
+    ],
+    "spanish": [
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY",
+            "text": "Superposicion de movimiento"
+        },
+        {
+            "token": "HUD_SHOW_MOVE_OVERLAY_DESC",
+            "text": "Muestra la superposicion de movimiento en la parte inferior de la pantalla mientras estas en un servidor"
+        }
+    ]
+}

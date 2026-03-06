@@ -1,0 +1,8 @@
+// Sample mod definition
+        
+        sample_mod
+        {
+            "parameter1"                                    "value1"
+            "parameter2"                                    "value2"
+        }
+        
